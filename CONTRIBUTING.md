@@ -40,10 +40,10 @@ The code style is captured using [EditorConfig](https://editorconfig.org/), see 
 
 First, install the required dependencies (preferably in a virtual environment):
 
+to activate the env in windows use the cmd and venv\Scripts\activate.bat 
 ```bash
-python -m venv venv
+python -m venv venv 
 source venv/bin/activate
-
 pip install -r requirements.txt
 ```
 
