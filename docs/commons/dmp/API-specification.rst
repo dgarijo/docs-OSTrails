@@ -1,6 +1,13 @@
 OSTrails maDMP API Specification
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-maDMP API Specification will build on top of the DSC and OSTrails AP and specify the operations and data exchange. We plan to materialize this in the form of OpenAPI specification (using the current version, currently v3.1.1. Again, this promotes adoption as OpenAPI specification not only documents the API but also provides a way to generate source code or other artifacts (e.g. tests) as well as check compliance.
+.. page-authors::
+    Tomasz Miksa
 
-- *Planned resource to be developed*
+The API is developed jointly with the [Research Data Alliance maDMP API working group](https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/activity). 
+
+The charter of the group can be found [here](https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/work-statement).
+
+The API specification is in this repository - [click](https://github.com/RDA-DMP-Common/common-madmp-api).
+
+The OpenAPI documentation can be accessed directly [here](https://rda-dmp-common.github.io/common-madmp-api/).
