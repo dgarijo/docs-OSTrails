@@ -10,14 +10,13 @@ The API is developed jointly with the `Research Data Alliance maDMP API working 
 
 
 
-The charter of the group can be found `here`_.
+The charter of the group can be found `here <https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/work-statement>`_.
 
-.. _here:https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/work-statement
 
-The API specification is in this repository - `click`_.
+The API specification is in this repository - `click <https://github.com/RDA-DMP-Common/common-madmp-api>`_.
 
-.. _click:https://github.com/RDA-DMP-Common/common-madmp-api
 
-The OpenAPI documentation can be accessed directly `here`_.
 
-.. _here:https://rda-dmp-common.github.io/common-madmp-api/
+The OpenAPI documentation can be accessed directly `here <https://rda-dmp-common.github.io/common-madmp-api/>`_.
+
+
