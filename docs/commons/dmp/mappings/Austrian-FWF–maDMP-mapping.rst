@@ -1,4 +1,4 @@
-Austrian FWF – maDMP mapping Testing
+Austrian FWF – maDMP mapping
 ===============================================
 
 We performed a mapping for each section using te Evaluation Rubric of the FWF template.
