@@ -4,10 +4,18 @@ OSTrails maDMP API Specification
 .. page-authors::
     Tomasz Miksa
 
-The API is developed jointly with the [Research Data Alliance maDMP API working group](https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/activity). 
+The API is developed jointly with the `Research Data Alliance maDMP API working group`. 
 
-The charter of the group can be found [here](https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/work-statement).
+.. _Research Data Alliance maDMP API working group: https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/activity
 
-The API specification is in this repository - [click](https://github.com/RDA-DMP-Common/common-madmp-api).
+The charter of the group can be found `here`.
 
-The OpenAPI documentation can be accessed directly [here](https://rda-dmp-common.github.io/common-madmp-api/).
+.. _here:https://www.rd-alliance.org/groups/common-application-programming-interface-api-for-machine-actionable-data-management-plans-madmps/work-statement
+
+The API specification is in this repository - `click`.
+
+.. _click:https://github.com/RDA-DMP-Common/common-madmp-api
+
+The OpenAPI documentation can be accessed directly `here`.
+
+.. _here:https://rda-dmp-common.github.io/common-madmp-api/
