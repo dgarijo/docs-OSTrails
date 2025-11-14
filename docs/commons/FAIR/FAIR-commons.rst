@@ -23,6 +23,5 @@ The following resources in this section are part of the FAIR Commons component.
    FAIR Champion <FAIR-Champion>
    FOOPS <FOOPS>
    FAIRsharing <FAIRsharing>
-
-
+   FAIR Assessment Authoring Tool <FAIR-Assessment-Authoring-Tool>
    
