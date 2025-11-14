@@ -5,6 +5,7 @@ OSTrails Commons: Resources
     Daniel Garijo
     Marek Suchánek
     Allyson Lister
+    Pablo Alarcón-Moreno
 
 
 This page embodies the OSTrails Commons, a collection of reusable resource according to its structure as :ref:`components <commons-structure>`.
