@@ -14,5 +14,5 @@ The following resources in this section are part of the FAIR Commons component.
    Catalogue of Benchmark Acoring Algorithms <Catalogue-of-Benchmark-Acoring-Algorithms>
    Core Assessment Profile <Core-Assessment-Profile>
    Guidance Element Specification <Guidance-Element-Specification>
-   
+   FAIrSharing <FAIRsharing>
    
