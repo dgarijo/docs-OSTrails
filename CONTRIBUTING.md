@@ -39,7 +39,6 @@ The code style is captured using [EditorConfig](https://editorconfig.org/), see 
 ### Building the Documentation
 
 First, install the required dependencies (preferably in a virtual environment):
-
 to activate the env in windows use the cmd and venv\Scripts\activate.bat 
 ```bash
 python -m venv venv 
