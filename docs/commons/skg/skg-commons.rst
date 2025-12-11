@@ -11,5 +11,5 @@ The following resources in this section are part of the SKG Commons component.
 
    OSTrails Application Profile for SKGs <skg-if-metadata-model>
    OSTrails SKG-IF API Specification <skg-if-api-specification>
-   OSTrails SKG-IF Extensions <skg-if-entity-extension>
+   OSTrails SKG-IF Model Extensions <skg-if-entity-extension>
    SKG-IF mappings <mappings/index>
