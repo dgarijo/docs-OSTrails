@@ -1,6 +1,15 @@
-OSTrails SKG-IF Model Extensions
+OSTrails SKG-IF Extensions
 -----------------------------------------
 
-Within OSTrails, a number of extensions have been requested, discussed and approved by the SKG-IF Working Group.
+Within the OSTrails context, a number of extensions have been submitted to the attention of the SKG-IF Working Group.
+The status of such ext-submissions is summarised in the table below:
 
-To date, the development of the `Service extension <https://skg-if.github.io/ext-srv/>`_ is in progress.
++----------+----------------------------------------------+-----------------------+---------------------------------------------------------------+
+| Acronym  | Scope                                        | Status                | Link/request                                                  |
++==========+==============================================+=======================+===============================================================+
+| SRV      | New entity to model services                 | Under development     | https://skg-if.github.io/ext-srv/                            |
++----------+----------------------------------------------+-----------------------+---------------------------------------------------------------+
+| SKG-PROV | Provenance tracking                           | To be discussed       | https://github.com/skg-if/extensions/issues/4                |
++----------+----------------------------------------------+-----------------------+---------------------------------------------------------------+
+| RP-STDS  | Research Products for Standards              | To be discussed       | https://github.com/skg-if/extensions/issues/5                |
++----------+----------------------------------------------+-----------------------+---------------------------------------------------------------+
