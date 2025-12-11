@@ -36,6 +36,7 @@ The documentation is structured as follows:
 
     FAIR Tools <tools/FAIR>
     DMP Tools <tools/DMP>
+    SKG Tools <tools/SKG>
 
 .. toctree::
     :maxdepth: 4
